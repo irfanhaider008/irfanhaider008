@@ -6,7 +6,7 @@ I'm a full-stack software developer 👨‍💻
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mirfanhaider/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mirfanhaider008@gmail.com)
-[<img alt="Projects" src="https://img.shields.io/badge/Projects-4A90E2.svg?style=for-the-badge&logo=folder&logoColor=white" />](https://irfanhaider008.github.io/dev/)
+[<img alt="Projects" src="https://img.shields.io/badge/Projects-4A90E2.svg?style=for-the-badge&logo=folder&logoColor=white" />]([https://irfanhaider008.github.io/dev/](https://irfanhaider008.github.io/dev/#projects))
 
 
 
